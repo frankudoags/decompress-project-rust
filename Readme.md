@@ -3,8 +3,8 @@
 This is a simple program that decompresses and extracts a zipped file. It is built with Rust and uses the zip crate.
 
 ## Usage
-
-To run the program, use the following command:
+Add the zip file to be decompressed to the root directory of the project.
+Then to run the program, use the following command:
 
 ```bash
 cargo run <zip file> 
